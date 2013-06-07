@@ -10,8 +10,11 @@ The aim is to produce an app which will allow us to collect data, upload it to a
 I hope this project will either:
 
 1) Make me a better Java/ Android programmer
+
 2) The above and be a useful resource for others learning the same things (look at historical commits to see how the code built up over time)
+
 3) The above and save us £800 a year and give a better mobile data collection platform for live use in the Trust
+
 4) The above and be something the wider NHS or other health providers can take, modify, and use for their own purposes.
 
 Time will tell how successful I am, but I'm sure I will have a lot of fun trying :-)
